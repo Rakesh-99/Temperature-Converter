@@ -1,4 +1,4 @@
-This project is all about convertig a Fahrenheit temperature to Celsius and vice versa.
+#This project is all about convertig a Fahrenheit temperature to Celsius and vice versa.
 
 To view click on the below link :
 
